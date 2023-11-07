@@ -111,5 +111,3 @@ The `task_form.html` template is used for creating and updating tasks. It includ
 
 ### task_list.html
 The `task_list.html` template is used to display the list of tasks. It includes a search bar, task items, and links to perform actions like updating or deleting tasks.
-
-This README provides an overview of the To-Do List web application and its key components. To run the application and explore its features, follow the installation instructions provided above.
